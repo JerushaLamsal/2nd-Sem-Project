@@ -4,6 +4,7 @@ require('loginCheck.php');
   // session_destroy();
   ?>
   <?php
+  
     require('config.php');
  
  ?>
