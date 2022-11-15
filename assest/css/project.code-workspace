@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../prj"
+		}
+	],
+	"settings": {
+		"livePreview.defaultPreviewPath": "d:\\wamp\\www\\project\\index.html"
+	}
+}
